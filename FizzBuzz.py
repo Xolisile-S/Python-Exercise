@@ -8,4 +8,4 @@ def fizz_buzz(max):
 
             i += 1
             print(numbers)
-print(fizz_buzz(55))
+print(fizz_buzz(30))
